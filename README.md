@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Caner.
 
-A software engineer who learns fast, has an investigate spirit and most importantly loves the coding.
+A software engineer who learns fast, has an investigate spirit and loves the coding. Skilled in backend development, creating applications that is integrated with database management systems, develop project based software solutions. Great problem-solving skills and predisposition to teamwork.
 
 - 🔭 I’m interested in backend development.
 - 💼 My portfolio: [canersulusoglu.tech](https://canersulusoglu.tech/)
