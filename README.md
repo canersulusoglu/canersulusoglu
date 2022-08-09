@@ -40,15 +40,15 @@ A software engineer who learns fast, has an investigate spirit and loves the cod
 ### 📈 GitHub Stats
 
 <p align="center" style="margin-top:2rem">
-  <img src="https://github-readme-stats.vercel.app/api?username=canersulusoglu&count_private=true&show_icons=true&hide=contribs,prs&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=canersulusoglu&count_private=true&show_icons=true&hide=contribs,prs&theme=tokyonight&bg_color=FFFFFF00" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=canersulusoglu&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=canersulusoglu&theme=tokyonight&background=FFFFFF00" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canersulusoglu&layout=compact&hide=php,css,html&theme=tokyonight&langs_count=4&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canersulusoglu&layout=compact&hide=php,css,html&theme=tokyonight&langs_count=4&bg_color=FFFFFF00" />
 </p>
 
 <p align="center">
@@ -56,5 +56,5 @@ A software engineer who learns fast, has an investigate spirit and loves the cod
 </p>
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=canersulusoglu&label=Profile%20views&color=0e75b6&style=flat" alt="canersulusoglu"/> 
-</p>  
+  <img src="https://komarev.com/ghpvc/?username=canersulusoglu&label=Profile%20views&color=0e75b6&style=flat" alt="canersulusoglu"/> 
+</p>
