@@ -31,6 +31,7 @@ A software engineer who learns fast, has an investigate spirit and loves the cod
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E535AB.svg?logo=graphql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React&nbsp;Native-61DAFB.svg?logo=react&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?logo=unity&logoColor=black)
