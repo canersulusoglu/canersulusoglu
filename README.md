@@ -8,6 +8,7 @@ A software engineer who learns fast, has an investigate spirit and loves the cod
 
 
 ### 👨‍💻 Tech Stack
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
