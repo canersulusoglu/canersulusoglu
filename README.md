@@ -2,7 +2,7 @@
 
 A software engineer who learns fast, has an investigate spirit and loves the coding. Skilled in backend development, creating applications that is integrated with database management systems, develop project based software solutions. Great problem-solving skills and predisposition to teamwork.
 
-- 🔭 I’m interested in backend development.
+- 🔭 I’m interested in backend development and currently working with Nest.js.
 - 💼 My portfolio: [canersulusoglu.tech](https://canersulusoglu.tech/)
 - 📫 How to reach me: sulusoglu.caner@gmail.com
 
