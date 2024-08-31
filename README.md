@@ -1,9 +1,8 @@
 ## Hi there 👋, I'm Caner.
 
-A computer engineer who learns fast, has an investigate spirit and loves the coding. Skilled in backend development, creating applications that is integrated with database management systems, develop project based software solutions. Great problem-solving skills and predisposition to teamwork.
+A computer engineer who learns fast, has an investigate spirit and loves the coding. Skilled in full stack development, creating applications that is integrated with database management systems, develop project based software solutions. Great problem-solving skills and predisposition to teamwork.
 
-- 🔭 I’m interested in backend development and currently working with Nest.js.
-- 💼 My portfolio: [canersulusoglu.tech](https://canersulusoglu.tech/)
+- 🔭 I’m interested in full stack development and mainly working with ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white&link=https://dotnet.microsoft.com/), ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white&link=https://nextjs.org/)
 - 📫 How to reach me: sulusoglu.caner@gmail.com
 
 
